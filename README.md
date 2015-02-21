@@ -1,2 +1,2 @@
 
-[DEMO] (http://zjoin.github.io/ultraupload)
+[WATCH DEMO] (http://zjoin.github.io/ultraupload)
