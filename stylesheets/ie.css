@@ -1,0 +1,8 @@
+.navbar li.active a {
+    background: #d1d5d7;
+} 
+             
+.navbar ul a:hover {
+    text-decoration: underline;
+}             
+       
